@@ -1,1 +1,1 @@
-# churn-prediction
+# Predicting Churn Using Supervised Machine Learning
