@@ -1,1 +1,1 @@
-# Predicting Churn Using Logistic Regression
+# Predicting Customer Churn with Logistic Regression
