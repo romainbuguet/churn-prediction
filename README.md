@@ -1,1 +1,1 @@
-# Predicting Churn Using Supervised Machine Learning
+# Predicting Churn Using Logistic Regression
